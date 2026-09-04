@@ -20,7 +20,3 @@ An enthusiastic developer passionate about low-level system mechanics, asynchron
 - **Security Engineering:** Implementing custom authentication, data validation tools, and cryptographic utilities (`secrets`, AES principles).
 ---
 
-### ⚙️ GitHub Stats
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
