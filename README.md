@@ -6,7 +6,7 @@ An enthusiastic developer passionate about low-level system mechanics, asynchron
 
 ### 💻 Core Tech Stack
 
-- **Languages:** Python, C, C++, HTML5, CSS3, JavaScript, Java
+- **Languages:** Python, HTML5, CSS3, JavaScript
 - **Backend & Async Stack:** Quart, Flask, `asyncio`, `aiohttp`, `aiosqlite`
 - **Desktop & GUI Applications:** `pywebview`, Native Web Wrappers
 - **Security & Networking:** CSRF Mitigation, Custom Middleware, Dynamic Rate Limiting, XSS/SQLi Defense Mechanics
